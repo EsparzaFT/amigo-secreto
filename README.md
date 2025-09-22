@@ -49,18 +49,6 @@ JavaScript: Funcionalidad interactiva
 
 Google Fonts: Tipografía (Inter y Merriweather)
 
-📁 Estructura del proyecto
-text
-amigo-secreto/
-│
-├── index.html          # Archivo principal HTML
-├── style.css           # Estilos CSS
-├── app.js              # Lógica JavaScript
-├── assets/             # Carpeta de recursos
-│   └── amigo-secreto.png
-│   └── play_circle_outline.png
-└── README.md           # Este archivo
-
 🔧 Instalación y configuración
 Clona o descarga el proyecto
 
